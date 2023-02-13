@@ -4,37 +4,37 @@
 </div>
 
 <p align='center'>
-<a href="https://linkedin.com/in/nickdanelia"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/badonix2300"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100089226523097"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCsB3AqfocIUn_UVjwPYIrAA"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
 <div align="center">
-<h3><img src="https://media0.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif?cid=ecf05e470hioj2be2vudkr0hk1di6vnp8behm8eyrzj2synn&rid=giphy.gif&ct=g" width="30"> 🙎 Badonix | 💻 Full Stack Developer | 🛸 Georgia <img src="https://media0.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif?cid=ecf05e470hioj2be2vudkr0hk1di6vnp8behm8eyrzj2synn&rid=giphy.gif&ct=g" width="30"></h3>
+<h3><img src="https://media0.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif?cid=ecf05e470hioj2be2vudkr0hk1di6vnp8behm8eyrzj2synn&rid=giphy.gif&ct=g" width="30"> 🙎   Scofield | 💻 Front-End Developer | 🛸 Georgia <img src="https://media0.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif?cid=ecf05e470hioj2be2vudkr0hk1di6vnp8behm8eyrzj2synn&rid=giphy.gif&ct=g" width="30"></h3>
 </div>
 
  <h5 align="center">
-   <i>what u doin here</i>
+   <i>u know who i am</i>
   </h5>
  
  
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47k31if346g017zel1q4q192hgud6zeesdmqqidy3c&rid=giphy.gif&ct=g" />
 <p align="center">
-  <h3> I'm 16 years old Self-taught Full-Stack developer from Georgia.</h3>
+  <h3> I'm 15 years old Self-taught Front-End developer from Georgia.</h3>
 </p>
 
 - 🥀 Learning Javascript
 
-- <i>with Javascript, Typescript, React and 69 others.</i>
+- <i>with Javascript, HTML, CSS, React and 69 others.</i>
 
 - ➕ Into Math and Physics
 
-- I do fullstack and a bit of everything :heart:
+- P.S. Not Too Much :heart:
 
 - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/badonix2300)
 
  <p align="center">
-  <h4> Full Stack | React | Clash Of Code </h4>
+  <h4> Front-End | Mark-UP | Code Enjoyer </h4>
    </p>
 
 <!--  -->
