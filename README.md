@@ -31,7 +31,7 @@
 
 - P.S. Not Too Much :heart:
 
-- 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/badonix2300)
+- 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/SandroZeikidze)
 
  <p align="center">
   <h4> Front-End | Mark-UP | Code Enjoyer </h4>
