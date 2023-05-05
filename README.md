@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://github.com/ScofieldABQ">Scofield</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"> </h1>
+   <h1>Hi there, I'm <a href="https://github.com/ScofieldABQ">Sandro</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"> </h1>
 
 </div>
 
@@ -9,7 +9,7 @@
  </p>
 
 <div align="center">
-<h3><img src="https://media0.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif?cid=ecf05e470hioj2be2vudkr0hk1di6vnp8behm8eyrzj2synn&rid=giphy.gif&ct=g" width="30"> 🙎   Scofield | 💻 Front-End Developer | 🛸 Georgia <img src="https://media0.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif?cid=ecf05e470hioj2be2vudkr0hk1di6vnp8behm8eyrzj2synn&rid=giphy.gif&ct=g" width="30"></h3>
+<h3><img src="https://media0.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif?cid=ecf05e470hioj2be2vudkr0hk1di6vnp8behm8eyrzj2synn&rid=giphy.gif&ct=g" width="30"> 🙎   Sandro | 💻 Front-End Developer | 🛸 Georgia <img src="https://media0.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif?cid=ecf05e470hioj2be2vudkr0hk1di6vnp8behm8eyrzj2synn&rid=giphy.gif&ct=g" width="30"></h3>
 </div>
 
  <h5 align="center">
