@@ -4,8 +4,7 @@
 </div>
 
 <p align='center'>
-<a href="https://www.facebook.com/profile.php?id=100089226523097"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCsB3AqfocIUn_UVjwPYIrAA"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCsB3AqfocIUn_UVjwPYIrAA"><img height="30" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png
  </p>
 
 <div align="center">
