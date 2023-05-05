@@ -22,7 +22,7 @@
   <h3> I'm 15 years old Self-taught Front-End developer from Georgia.</h3>
 </p>
 
-- 🥀 Learning Javascript
+- 🥀 Learning WEB
 
 - <i>with Javascript, HTML, CSS, React and 69 others.</i>
 
