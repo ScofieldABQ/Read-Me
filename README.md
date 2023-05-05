@@ -4,7 +4,7 @@
 </div>
 
 <p align='center'>
-<a href="https://www.youtube.com/channel/UCsB3AqfocIUn_UVjwPYIrAA"><img height="30" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png
+<a href="https://www.youtube.com/channel/UCsB3AqfocIUn_UVjwPYIrAA"><img height="30" src[="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png](https://logowik.com/content/uploads/images/188_youtube.jpg)"
  </p>
 
 <div align="center">
